@@ -2,6 +2,8 @@
 
 AdBlock DNS is a simple yet powerful ad-blocking solution that automatically configures your PC to use **AdGuard DNS**, blocking ads and trackers at the DNS level. This enhances privacy, speeds up browsing, and provides an ad-free experience.  
 
+![ADBlockerDNS UI](https://raw.githubusercontent.com/megsystem/ADBlockerDNS/refs/heads/main/Screenshot/1.png)
+
 ## ✨ Features  
 
 - 🚀 **Blocks ads & trackers** using AdGuard DNS  
